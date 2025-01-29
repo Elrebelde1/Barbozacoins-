@@ -9,9 +9,9 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['573177810378', 'Bot-Ai',true],
   ['584146277368', 'Bot',true],
   ['584246582666', 'Barboza',true],
+  ['50487421142', 'Bar',true],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -22,16 +22,16 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = `[ ⚡Sticker Maker`
-global.author = '_Agust - Ai_]'
-global.stickpack = '© Agust - Ai'
-global.stickauth = 'by Agust'
-global.wm = 'Agust ⚡'
-global.dev = '© Powered By August ⚡'
-global.wait = '⚡ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> _Bot Agust-Ai_⚡*'
-global.botname = '[ ⚡ Bot Agust - Ai⚡ ]'
-global.textbot = `⚡Bot Agust - Ai⚡`
+global.author = '_Elder  - Ai_]'
+global.stickpack = '© ELDER - Bot'
+global.stickauth = 'by ELDER'
+global.wm = 'Elder ⚡'
+global.dev = '© Powered By Elder ⚡'
+global.wait = '⚡ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> _Bot Elder-Ai_⚡*'
+global.botname = '[ ⚡ Bot Elder⚡ ]'
+global.textbot = `⚡Bot ELDER -BOT ⚡`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '⚡Agust - Ai⚡'
+global.namechannel = '⚡Bot ELDER ⚡'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -40,8 +40,8 @@ global.imagen2 = fs.readFileSync('./storage/img/Menu2.jpg')
 global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://whatsapp.com/channel/0029Vb33PrnId7nMjcixDV1p'
-global.canal = 'https://whatsapp.com/channel/0029Vb33PrnId7nMjcixDV1p'
+global.group = 'https://whatsapp.com/channel/0029Vb3TtBS42Dcf8EEnAi22'
+global.canal = 'https://whatsapp.com/channel/0029Vb3TtBS42Dcf8EEnAi22'
 global.insta = 'https://www.insta.com/https://www.insta.com/sebastian_barboza13'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
