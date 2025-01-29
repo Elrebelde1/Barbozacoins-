@@ -20,8 +20,8 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   user.regTime = + new Date
   user.registered = true
   let sn = createHash('md5').update(m.sender).digest('hex')
-  let img = await (await fetch(`https://qu.ax/OQNSn.jpg`)).buffer()
-  let txt = ` –  *Bienvenido A August-Ai*\n\n`
+  let img = await (await fetch(`https://qu.ax/qQOxo.jpg`)).buffer()
+  let txt = ` –  *Bienvenido ELDER -BOT*\n\n`
       txt += `╔  👤  *NOMBRE* : ${name}\n`
       txt += `╠  💎  *EDAD* : ${age} años\n`
 await conn.sendAi(m.chat, botname, textbot, txt, img, img, canal, m)
