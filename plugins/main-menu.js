@@ -48,10 +48,10 @@ let tags = {
 const defaultMenu = {
   before:  `*─ׄ─ׅ─⭒─ׄ─ׄ─⭒─ׅ─ׄ─⭒─ׄ─ׄ─⭒─ׄ─ׄ─*
 
-Hola *%name* soy *August-Ai*
+Hola *%name* soy *ELDER Bot*
 
 ╔══════ •『 𝑪𝑹𝑬𝑨𝑫𝑶𝑹 』
-║  🖥️ Agust
+║  🖥️ Elder
 ╚═════ ♢.✰.♢ ══════
 ╔══════ •『 𝑰𝑵𝑭𝑶-𝑩𝑶𝑻 』
 ║  👤 Cliente: %name
@@ -60,7 +60,7 @@ Hola *%name* soy *August-Ai*
 ╚═════ ♢.✰.♢ ═══════
 
 ╔══════ •『 𝑰𝑵𝑭𝑶-𝑼𝑺𝑬𝑹』
-║  🤖 Bot: ©Bot-Agust-Ai®
+║  🤖 Bot: ©ELDER Bot ®
 ║  💎 Modo Público
 ║  💨 Baileys: Multi Device
 ║  🪄 Tiempo Activo: %muptime
@@ -72,7 +72,7 @@ Hola *%name* soy *August-Ai*
 \t\t\t⚙️_*𝐋𝐈𝐒𝐓𝐀 𝐃𝐄 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒*_ 🚀
 `.trimStart(),
   header: '*╭╍╍╍╍❖【 *%category* 】',
-  body: '┋💎›【 %cmd %islimit %isPremium\n',
+  body: '┋💨›【 %cmd %islimit %isPremium\n',
   footer: '*╰╍╍╍╍❖•ೋ° °ೋ•❖╍╍╍╍╯*',
   after: `© ${textbot}`,
 }
